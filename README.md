@@ -1,5 +1,5 @@
 # The Rocket Man
-This game has been developed by following as part of "(https://www.udemy.com/unitycourse2)[Learn to Code Making Games - Complete C# Unity Developer 2.0]" Udemy course by Ben Tristem and Rick Davidson.
+This game has been developed by following as part of ["Learn to Code Making Games - Complete C# Unity Developer 2.0"](https://www.udemy.com/unitycourse2) Udemy course by Ben Tristem and Rick Davidson.
 
 ## The game
 
