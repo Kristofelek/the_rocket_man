@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 0ae99395302259f47a4b05f430127159
+timeCreated: 1521492485
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cylinder
+    100004: Cylinder_001
+    100006: Cylinder_003
+    100008: Cylinder_004
+    100010: Cylinder_005
+    100012: Cylinder_006
+    100014: Cylinder_007
+    100016: Cylinder_009
+    100018: Cylinder_010
+    100020: Cylinder_012
+    100022: Plane_001
+    100024: Plane_002
+    100026: Plane_003
+    100028: Plane_004
+    100030: Plane_005
+    100032: Plane_006
+    100034: Plane_007
+    100036: Plane_010
+    100038: Plane_011
+    400000: //RootNode
+    400002: Cylinder
+    400004: Cylinder_001
+    400006: Cylinder_003
+    400008: Cylinder_004
+    400010: Cylinder_005
+    400012: Cylinder_006
+    400014: Cylinder_007
+    400016: Cylinder_009
+    400018: Cylinder_010
+    400020: Cylinder_012
+    400022: Plane_001
+    400024: Plane_002
+    400026: Plane_003
+    400028: Plane_004
+    400030: Plane_005
+    400032: Plane_006
+    400034: Plane_007
+    400036: Plane_010
+    400038: Plane_011
+    2100000: BODY
+    2100002: WINDOW
+    2100004: EXHAUST
+    2100006: INVERT
+    2300000: Cylinder
+    2300002: Cylinder_001
+    2300004: Cylinder_003
+    2300006: Cylinder_004
+    2300008: Cylinder_005
+    2300010: Cylinder_006
+    2300012: Cylinder_007
+    2300014: Cylinder_009
+    2300016: Cylinder_010
+    2300018: Cylinder_012
+    2300020: Plane_001
+    2300022: Plane_002
+    2300024: Plane_003
+    2300026: Plane_004
+    2300028: Plane_005
+    2300030: Plane_006
+    2300032: Plane_007
+    2300034: Plane_010
+    2300036: Plane_011
+    3300000: Cylinder
+    3300002: Cylinder_001
+    3300004: Cylinder_003
+    3300006: Cylinder_004
+    3300008: Cylinder_005
+    3300010: Cylinder_006
+    3300012: Cylinder_007
+    3300014: Cylinder_009
+    3300016: Cylinder_010
+    3300018: Cylinder_012
+    3300020: Plane_001
+    3300022: Plane_002
+    3300024: Plane_003
+    3300026: Plane_004
+    3300028: Plane_005
+    3300030: Plane_006
+    3300032: Plane_007
+    3300034: Plane_010
+    3300036: Plane_011
+    4300000: Cylinder_009
+    4300002: Cylinder_007
+    4300004: Cylinder_006
+    4300006: Cylinder_003
+    4300008: Cylinder
+    4300010: Cylinder_012
+    4300012: Plane_011
+    4300014: Plane_010
+    4300016: Plane_007
+    4300018: Plane_006
+    4300020: Plane_005
+    4300022: Plane_004
+    4300024: Plane_002
+    4300026: Plane_001
+    4300028: Cylinder_010
+    4300030: Cylinder_005
+    4300032: Cylinder_004
+    4300034: Cylinder_001
+    4300036: Plane_003
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BODY
+    second: {fileID: 2100000, guid: 0ae99395302259f47a4b05f430127159, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EXHAUST
+    second: {fileID: 2100004, guid: 0ae99395302259f47a4b05f430127159, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INVERT
+    second: {fileID: 2100006, guid: 0ae99395302259f47a4b05f430127159, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WINDOW
+    second: {fileID: 2100002, guid: 0ae99395302259f47a4b05f430127159, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
